@@ -1,4 +1,4 @@
-# Análise de Preços e Margem de Lucro
+# Profit Insight | Análise de Preços e Margem de Lucro
 
 Este projeto realiza uma análise de preços e margens de lucro de uma loja de peças de moto, utilizando a biblioteca pandas para manipulação de dados e matplotlib para visualização. A análise inclui o cálculo da margem de lucro, lucro total, e visualizações para identificar produtos com baixa margem de lucro.
 
